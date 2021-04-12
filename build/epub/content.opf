@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en"
+ unique-identifier="unknown"
+ prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf"
+        xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:language>en</dc:language>
+    <dc:title>Tims TuneBook</dc:title>
+    <dc:description>unknown</dc:description>
+    <dc:creator>Tim Pillinger</dc:creator>
+    <dc:contributor>unknown</dc:contributor>
+    <dc:publisher>Tim Pillinger</dc:publisher>
+    <dc:rights>2021, Tim Pillinger</dc:rights>
+    <dc:identifier id="unknown">unknown</dc:identifier>
+    <dc:date>2021-04-12T13:44:48Z</dc:date>
+    <meta property="dcterms:modified">2021-04-12T13:44:48Z</meta>
+    <meta property="ibooks:version"></meta>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <meta property="ibooks:binding">true</meta>
+    <meta property="ibooks:scroll-axis">vertical</meta>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="epub-0" href="genindex.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-1" href="index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-2" href="Other Tunes/Jigs.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-3" href="Other Tunes/Waltzes.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-4" href="Other Tunes/index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-5" href="Pipe Tunes/Dorrington Lads.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-6" href="Pipe Tunes/I&#x27;m not fed up with the Pacific Ocean.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-7" href="Pipe Tunes/Spring all Summer Long.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-8" href="Pipe Tunes/index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-9" href="Piping Lessons/Boulavogue.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-10" href="Piping Lessons/index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-11" href="Playford/Playford.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-12" href="Playford/index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-13" href="Songs/Arthur McBride.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-14" href="Songs/index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-15" href="_images/Arthur McBride.svg" media-type="image/svg+xml" />
+    <item id="epub-16" href="_images/Barham Down.svg" media-type="image/svg+xml" />
+    <item id="epub-17" href="_images/Boulavogue.svg" media-type="image/svg+xml" />
+    <item id="epub-18" href="_images/Doom.svg" media-type="image/svg+xml" />
+    <item id="epub-19" href="_images/Dorrington Lads.svg" media-type="image/svg+xml" />
+    <item id="epub-20" href="_images/Gentle Maiden.svg" media-type="image/svg+xml" />
+    <item id="epub-21" href="_images/I&#x27;m not fed up with the Pacific Ocean.svg" media-type="image/svg+xml" />
+    <item id="epub-22" href="_images/Jenny Pluck Pears.svg" media-type="image/svg+xml" />
+    <item id="epub-23" href="_images/Nonsuch.svg" media-type="image/svg+xml" />
+    <item id="epub-24" href="_images/Spring all Summer Long.svg" media-type="image/svg+xml" />
+    <item id="epub-25" href="_images/The Hole in the Wall.svg" media-type="image/svg+xml" />
+    <item id="epub-26" href="_images/The Valiant.svg" media-type="image/svg+xml" />
+    <item id="epub-27" href="_static/basic.css" media-type="text/css" />
+    <item id="epub-28" href="_static/epub.css" media-type="text/css" />
+    <item id="epub-29" href="_static/file.png" media-type="image/png" />
+    <item id="epub-30" href="_static/minus.png" media-type="image/png" />
+    <item id="epub-31" href="_static/plus.png" media-type="image/png" />
+    <item id="epub-32" href="_static/pygments.css" media-type="text/css" />
+  </manifest>
+  <spine toc="ncx" page-progression-direction="ltr">
+    <itemref idref="epub-1" />
+    <itemref idref="epub-33" />
+    <itemref idref="epub-34" />
+    <itemref idref="epub-35" />
+    <itemref idref="epub-36" />
+    <itemref idref="epub-37" />
+    <itemref idref="epub-38" />
+    <itemref idref="epub-39" />
+    <itemref idref="epub-40" />
+    <itemref idref="epub-41" />
+    <itemref idref="epub-14" />
+    <itemref idref="epub-42" />
+    <itemref idref="epub-12" />
+    <itemref idref="epub-11" />
+    <itemref idref="epub-0" />
+    <itemref idref="epub-2" linear="no" />
+    <itemref idref="epub-3" linear="no" />
+    <itemref idref="epub-4" linear="no" />
+    <itemref idref="epub-5" linear="no" />
+    <itemref idref="epub-6" linear="no" />
+    <itemref idref="epub-7" linear="no" />
+    <itemref idref="epub-8" linear="no" />
+    <itemref idref="epub-9" linear="no" />
+    <itemref idref="epub-10" linear="no" />
+    <itemref idref="epub-13" linear="no" />
+  </spine>
+  <guide>
+    <reference type="toc" title="Table of Contents" href="index.xhtml" />
+  </guide>
+</package>
