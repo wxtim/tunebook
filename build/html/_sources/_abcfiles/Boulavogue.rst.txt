@@ -1,4 +1,0 @@
-Boolavogue
-==========
-
-.. image:: Boulavogue.svg

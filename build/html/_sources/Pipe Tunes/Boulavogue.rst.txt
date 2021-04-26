@@ -1,4 +1,0 @@
-Airs
-====
-
-.. image:: ../_abcfiles/Spring\ all\ Summer\ Long.svg
