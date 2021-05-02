@@ -1,2 +1,3 @@
 source/_abcfiles/_*.abc
 source/_abcfiles/*.svg
+build/*
