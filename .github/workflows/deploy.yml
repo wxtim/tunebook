@@ -21,6 +21,7 @@ jobs:
         run: | 
           pip install sphinx
           pip install sphinx_rtd_theme
+          pip install abc-sphinx-extensions
           sudo apt install abcm2ps
 
       - name: build docs
