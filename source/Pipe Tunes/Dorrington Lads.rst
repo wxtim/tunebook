@@ -4,4 +4,4 @@ Odd Hornpipes
 Dorrington Lads
 ---------------
 
-.. image:: ../_abcfiles/Dorrington\ Lads.svg
+.. image:: ../_abcfiles/_Dorrington\ Lads.svg

@@ -4,10 +4,10 @@ Boulavogue & Gentle Maiden
 Boulavogue
 ----------
 
-.. image:: ../_abcfiles/Boulavogue.svg
+.. image:: ../_abcfiles/_Boulavogue.svg
 
 
 Gentle Maiden
 -------------
 
-.. image:: ../_abcfiles/Gentle\ Maiden.svg
+.. image:: ../_abcfiles/_Gentle\ Maiden.svg

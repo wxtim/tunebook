@@ -4,10 +4,10 @@ Waltzes
 Doom
 ----
 
-.. image:: ../_abcfiles/Doom.svg
+.. image:: ../_abcfiles/_Doom.svg
 
 
 Sherborne Waltz
 ---------------
 
-.. image:: ../_abcfiles/Sherborne\ Waltz.svg
+.. image:: ../_abcfiles/_Sherborne\ Waltz.svg

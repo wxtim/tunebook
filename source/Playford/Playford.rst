@@ -4,21 +4,21 @@ Playford
 Jenny Pluck Pears
 -----------------
 
-.. image:: ../_abcfiles/Jenny\ Pluck\ Pears.svg
+.. image:: ../_abcfiles/_Jenny\ Pluck\ Pears.svg
 
 
 The Hole in the Wall
 --------------------
 
-.. image:: ../_abcfiles/The\ Hole\ in\ the\ Wall.svg
+.. image:: ../_abcfiles/_The\ Hole\ in\ the\ Wall.svg
 
 
 Barham Down
 -----------
 
-.. image:: ../_abcfiles/Barham\ Down.svg
+.. image:: ../_abcfiles/_Barham\ Down.svg
 
 Nonsuch
 -------
 
-.. image:: ../_abcfiles/Nonsuch.svg
+.. image:: ../_abcfiles/_Nonsuch.svg

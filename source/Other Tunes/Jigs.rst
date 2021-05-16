@@ -4,4 +4,4 @@ Jigs
 The Valiant
 -----------
 
-.. image:: ../_abcfiles/The\ Valiant.svg
+.. image:: ../_abcfiles/_The\ Valiant.svg

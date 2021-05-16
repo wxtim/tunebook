@@ -1,7 +1,7 @@
 Arthur McBride
 --------------
 
-.. image:: ../_abcfiles/Arthur\ McBride.svg
+.. image:: ../_abcfiles/_Arthur\ McBride.svg
 
 | Oh, me and my cousin, one Arthur McBride
 | As we went a-walking down by the seaside
