@@ -10,10 +10,10 @@ I'm not fed up with the Pacific Ocean
 Lucy Farr's
 -----------
 
-.. image:: ../_abcfiles/Lucy\ Farrs.svg
+.. image:: ../_abcfiles/_Lucy\ Farrs.svg
 
 
 Long Long Ago
 -------------
 
-.. image:: ../_abcfiles/Long\ Long\ Ago.svg
+.. image:: ../_abcfiles/_Long\ Long\ Ago.svg
