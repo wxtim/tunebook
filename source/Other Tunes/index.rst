@@ -6,3 +6,4 @@ Other Tunes
 
     Waltzes
     Jigs
+    Hornpipes
