@@ -1,3 +1,7 @@
+##############
+Tim's Tunebook
+##############
+
 .. toctree::
     :maxdepth: 3
 
