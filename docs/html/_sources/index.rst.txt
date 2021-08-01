@@ -1,6 +1,8 @@
 Tim's Tunebook
 ==============
 
+.. image:: img/pipes.svg
+
 .. toctree::
     :maxdepth: 3
 
