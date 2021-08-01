@@ -1,0 +1,29 @@
+X: 1
+C: Trad, Variations by R Whinham Arr S. A. Fisher
+M: 2/4
+L: 1/16
+K: Gmaj
+%1
+[V:T1]D2| G2GA B2Bc | d2ed B4 | d2cB A2D2 | c2BA G3D |
+[V:T2]F2| B4   d4   | B4 dcB2 | G2AB CedB | AFGA B4  |
+%5
+[V:T1]| G2GA B2Bc | d2ed B4 | d2cB A2BA | G6      ||
+[V:T2]| B4   d4   | B4 dcB2 | G2AB d4   | d2c2 B2 ||
+%9
+[V:T1]D2 | d2cB A2D2 | c2BA G3D | d2cB AD Fd | e2ed B3D |
+[V:T2]F2 | D2EF C2D2 | c2BA B3B | B2AG F2Ac  | cAB2 GFED|
+%13
+[V:T1]| G2GA B2Bc | d2ed B4 | d2cB A2BA | G6      ||
+[V:T2]| B4   d4   | B4 dcB2 | G2AB d4   | dBc2 B2 ||
+%17
+[V:T1]D2 | GDGA BDGB | d^ced BDGB | d2cB ADFA | c2BA GDEF |
+[V:T2]F2 |B4   d4    | B4    dcB2 | G2AB cedB | AFGA B4   |
+%21
+[V:T1]GDGA BDGB | d^ced BDGB | d2cA A2BA | D6      ||
+[V:T2]B4   D4   | B4    dcB2 | G2AB d4   | d2c2 B2 ||
+%25
+[V:T1]D2 | d2cB ADFA | c2BA GDGB | d2cB ADFA | e2ed B3D  |
+[V:T2]F2 | D2EF c2d2 | e2dc B3B  | B2AG F2Ac | cAB2 GEFD |
+%29
+[V:T1]GDGA BDGB | d^ced BDGB | d2cB ADBA | G6      |]
+[V:T2]B4   d4   | B4    dcB2 | G2AB d4   | dBc2 d2 |]
