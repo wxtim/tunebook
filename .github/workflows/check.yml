@@ -22,4 +22,4 @@ jobs:
 
       - name: build docs
         run: |
-          make clean html
+          make clean html SPHINXOPTS='-Wn'
