@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  deploy:
+  test_build:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
@@ -22,4 +22,4 @@ jobs:
 
       - name: build docs
         run: |
-          make clean html SPHINXOPTS='-Wn'
+          make clean html
