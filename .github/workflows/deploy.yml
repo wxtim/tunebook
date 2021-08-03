@@ -1,0 +1,36 @@
+name: Build & Deploy
+on:
+  workflow_dispatch:
+
+jobs:
+  test_build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: configure python
+        uses: actions/setup-python@v2
+
+      - name: checkout tunebook
+        uses: actions/checkout@v2
+
+      - name: install dependencies
+        run: | 
+          pip install sphinx
+          pip install sphinx_rtd_theme
+          sudo apt install abcm2ps
+
+      - name: checkout gh-pages
+        uses: actions/checkout@v2
+        with:
+          ref: gh-pages
+          path: gh-pages
+
+      - name: build docs
+        run: |
+          make clean html
+
+      - name: push changes
+        run: |
+          git add .
+          git commit -m "Auto-build"
+          git push origin HEAD
