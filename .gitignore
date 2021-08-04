@@ -1,1 +1,3 @@
 docs
+_*.abc
+source/_abcfiles/*.svg
