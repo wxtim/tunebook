@@ -20,3 +20,8 @@ Castles in the Air
 ------------------
 
 .. image:: ../_abcfiles/Castles\ in\ the\ air.svg
+
+Napoleon Crossing the Cheviots
+------------------------------
+
+.. image:: ../_abcfiles/Napoleon\ Crossing\ the\ Cheviots.svg
