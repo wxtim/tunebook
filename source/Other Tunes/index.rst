@@ -7,3 +7,4 @@ Other Tunes
     Waltzes
     Jigs
     Hornpipes
+    Not Trad Tunes
