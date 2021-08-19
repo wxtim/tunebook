@@ -5,3 +5,4 @@ Piping Lessons
     :maxdepth: 3
 
     Boulavogue
+    Rants
