@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en"
+ unique-identifier="unknown"
+ prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf"
+        xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:language>en</dc:language>
+    <dc:title>Tims TuneBook</dc:title>
+    <dc:description>unknown</dc:description>
+    <dc:creator>Tim Pillinger</dc:creator>
+    <dc:contributor>unknown</dc:contributor>
+    <dc:publisher>Tim Pillinger</dc:publisher>
+    <dc:rights>2021, Tim Pillinger</dc:rights>
+    <dc:identifier id="unknown">unknown</dc:identifier>
+    <dc:date>2021-08-28T08:16:51Z</dc:date>
+    <meta property="dcterms:modified">2021-08-28T08:16:51Z</meta>
+    <meta property="ibooks:version"></meta>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <meta property="ibooks:binding">true</meta>
+    <meta property="ibooks:scroll-axis">vertical</meta>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="epub-0" href="Lists.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-1" href="genindex.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-2" href="index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-3" href="Other Tunes/Hornpipes.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-4" href="Other Tunes/Jigs.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-5" href="Other Tunes/Not Trad Tunes.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-6" href="Other Tunes/Waltzes.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-7" href="Other Tunes/index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-8" href="Pipe Tunes/Dorrington Lads.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-9" href="Pipe Tunes/I&#x27;m not fed up with the Pacific Ocean.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-10" href="Pipe Tunes/Spring all Summer Long.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-11" href="Pipe Tunes/index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-12" href="Piping Lessons/Boulavogue.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-13" href="Piping Lessons/Rants.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-14" href="Piping Lessons/index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-15" href="Playford/Playford.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-16" href="Playford/index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-17" href="Songs/Arthur McBride.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-18" href="Songs/index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-19" href="_images/Apple Blossom.svg" media-type="image/svg+xml" />
+    <item id="epub-20" href="_images/Arthur McBride.svg" media-type="image/svg+xml" />
+    <item id="epub-21" href="_images/Barham Down.svg" media-type="image/svg+xml" />
+    <item id="epub-22" href="_images/Boulavogue.svg" media-type="image/svg+xml" />
+    <item id="epub-23" href="_images/Castles in the air.svg" media-type="image/svg+xml" />
+    <item id="epub-24" href="_images/Cavehill.svg" media-type="image/svg+xml" />
+    <item id="epub-25" href="_images/Doom.svg" media-type="image/svg+xml" />
+    <item id="epub-26" href="_images/Dorrington Lads.svg" media-type="image/svg+xml" />
+    <item id="epub-27" href="_images/Gentle Maiden.svg" media-type="image/svg+xml" />
+    <item id="epub-28" href="_images/Hooligan&#x27;s Jig.svg" media-type="image/svg+xml" />
+    <item id="epub-29" href="_images/I&#x27;m not fed up with the Pacific Ocean.svg" media-type="image/svg+xml" />
+    <item id="epub-30" href="_images/Inisheer.svg" media-type="image/svg+xml" />
+    <item id="epub-31" href="_images/Jenny Pluck Pears.svg" media-type="image/svg+xml" />
+    <item id="epub-32" href="_images/Katie Elliots.svg" media-type="image/svg+xml" />
+    <item id="epub-33" href="_images/Long Long Ago.svg" media-type="image/svg+xml" />
+    <item id="epub-34" href="_images/Lucy Farrs.svg" media-type="image/svg+xml" />
+    <item id="epub-35" href="_images/Napoleon Crossing the Cheviots.svg" media-type="image/svg+xml" />
+    <item id="epub-36" href="_images/Nonsuch.svg" media-type="image/svg+xml" />
+    <item id="epub-37" href="_images/Sherborne Waltz.svg" media-type="image/svg+xml" />
+    <item id="epub-38" href="_images/Spring all Summer Long.svg" media-type="image/svg+xml" />
+    <item id="epub-39" href="_images/Sweet Nothings.svg" media-type="image/svg+xml" />
+    <item id="epub-40" href="_images/The Hole in the Wall.svg" media-type="image/svg+xml" />
+    <item id="epub-41" href="_images/The Valiant.svg" media-type="image/svg+xml" />
+    <item id="epub-42" href="_images/To Gelasto Paidi.svg" media-type="image/svg+xml" />
+    <item id="epub-43" href="_images/Walsh&#x27;s Hornpipe.svg" media-type="image/svg+xml" />
+    <item id="epub-44" href="_images/Welcome to the Town Again.svg" media-type="image/svg+xml" />
+    <item id="epub-45" href="_images/pipes.svg" media-type="image/svg+xml" />
+    <item id="epub-46" href="_static/basic.css" media-type="text/css" />
+    <item id="epub-47" href="_static/epub.css" media-type="text/css" />
+    <item id="epub-48" href="_static/file.png" media-type="image/png" />
+    <item id="epub-49" href="_static/minus.png" media-type="image/png" />
+    <item id="epub-50" href="_static/plus.png" media-type="image/png" />
+    <item id="epub-51" href="_static/pygments.css" media-type="text/css" />
+  </manifest>
+  <spine toc="ncx" page-progression-direction="ltr">
+    <itemref idref="epub-2" />
+    <itemref idref="epub-52" />
+    <itemref idref="epub-53" />
+    <itemref idref="epub-54" />
+    <itemref idref="epub-55" />
+    <itemref idref="epub-56" />
+    <itemref idref="epub-57" />
+    <itemref idref="epub-58" />
+    <itemref idref="epub-59" />
+    <itemref idref="epub-60" />
+    <itemref idref="epub-61" />
+    <itemref idref="epub-62" />
+    <itemref idref="epub-63" />
+    <itemref idref="epub-18" />
+    <itemref idref="epub-64" />
+    <itemref idref="epub-16" />
+    <itemref idref="epub-15" />
+    <itemref idref="epub-0" />
+    <itemref idref="epub-1" />
+    <itemref idref="epub-3" linear="no" />
+    <itemref idref="epub-4" linear="no" />
+    <itemref idref="epub-5" linear="no" />
+    <itemref idref="epub-6" linear="no" />
+    <itemref idref="epub-7" linear="no" />
+    <itemref idref="epub-8" linear="no" />
+    <itemref idref="epub-9" linear="no" />
+    <itemref idref="epub-10" linear="no" />
+    <itemref idref="epub-11" linear="no" />
+    <itemref idref="epub-12" linear="no" />
+    <itemref idref="epub-13" linear="no" />
+    <itemref idref="epub-14" linear="no" />
+    <itemref idref="epub-17" linear="no" />
+  </spine>
+  <guide>
+    <reference type="toc" title="Table of Contents" href="index.xhtml" />
+  </guide>
+</package>
