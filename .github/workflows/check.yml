@@ -19,6 +19,7 @@ jobs:
           pip install sphinx
           pip install sphinx_rtd_theme
           sudo apt install abcm2ps
+          pip install git+git://github.com/wxtim/abc-sphinx-extensions@main
 
       - name: build docs
         run: |
