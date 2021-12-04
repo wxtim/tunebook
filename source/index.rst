@@ -11,4 +11,5 @@ Tim's Tunebook
     Other Tunes/index.rst
     Songs/index.rst
     Playford/index.rst
+    Christmas/index.rst
     Lists
