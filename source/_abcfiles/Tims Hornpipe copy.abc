@@ -1,0 +1,12 @@
+X: 4
+C: Tim Pillinger
+T: The Accidental Polska
+R: waltz
+M: 3/4
+L: 1/8
+K: G
+%%alignbars 4
+G>B A>F G2 | B>c d>e d2 | (3gfg e>c A2 | F>G A<B A2 |
+G>B A>F G2 | B>c d>e d2 | (3gfg e>c A2 | F<A G2 G2 :|
+g>f e>d c2 | c>d e>c A2 | A>B c>A F2   | F>G A>F G2 |
+g>f e>d c2 | c>d (3edc A2 | A>B c>A F2   | A>c f>a g2 :|
