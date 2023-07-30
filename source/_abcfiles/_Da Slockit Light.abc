@@ -1,0 +1,25 @@
+X: 1
+C: Tom Anderson
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+V:1
+FE|D3F A2d2|fedc d2A2|B2d2 A2d2|BAGF EGFE|
+V:2
+dA|F3dF2G2 |AGFE F2 D2|GABc de f2 | gfed cBAG |
+V:1
+D3F A2d2|fedc d2A2|B2G2 AGFE|D6:|
+V:2
+F3 d F2G2 | AGFE F2 D2| GABd cBAG | F6 :|
+V:1
+g2|f2a2 e3c|d3e dcBA|f2a2 e2[^ge]2|a4- a2=g2|
+V:2
+B2 | AG F2 G2 A2 | F3 G FAGF | AG F2 E2 B2| ABcB AGFE|
+V:1
+f2a2 e3c|d3e dcBA|B2G2 AGFE|D4- D3g|
+V:2
+D2 F2 A2 G2 | F3 G FAGF | GABd cBAG| F6 B2
+V:1
+f2a2 e3c|d3e dcBA|B2d2 A2d2|BAGF EGFE|
+D3F A2d2|fedc d2A2|B2G2 AGFE|D4- D2|

@@ -1,0 +1,13 @@
+
+/* .rst-content .lyrics { */
+/* } */
+.rst-content .lyrics .admonition-title {
+    background: teal;
+}
+.rst-content .lyrics .admonition-title::before {
+    content: '🎼';
+}
+.rst-content .lyrics table tr td th {
+    border: hidden;
+    -webkit-backface-visibility: hidden;
+}
