@@ -1,0 +1,36 @@
+%%measurenb 0
+X: 2
+C: Trad, Variations Tim Pillinger
+M: 4/4
+L: 1/8
+K: Gmaj
+%% The Orginal A Part
+d2BA G2G2|A2BA G2D2|EDEF G2AB|c2B2 B2A2|\
+d2BA G2G2|A2BA G2D2|EDEF G2Ac|B2A2 G4:|
+%% Original B Part
+|:d2ef gfed|e2e2 e4|d2B2 B2AG|FGAB A4|\
+d2ef gfed|e2e2 e2d2|efg2 fgaf|g4 !fine!g4:| 
+%% A Variations
+d2BA GBGd|A2BA GDGA|EDEF G2AB|c2 B2 B2 A2|\
+d2BA GBGd|A2BA GDGA|EDEF GABd|B2A2 {G}G4:|
+%% B Variations
+|:dgfg agfe| egce d3 d |d2B2 B2AG|FGAB A4|\
+d2ef gfed|egce d3 d|efg2 fgaf|g4 g4:| 
+%% A Variations
+d2ef g2{f}g2|A2BA G2{E}D2|EDEF (3G/2B/2d/2 (3g/2d/2B/2 |c2B2 B2 {G}A2|\
+d2BA G2G2|A2BA G2D2|EDEF G2 (3A/2B/2c/2|B2A2 G4:|
+%% B Variations
+|:d2ef gfed|(3efg e2 e4|dcBA BAGA|FGAB A4|\
+d2ef gfed|egce d3d |efg2 fgaf|g4 !D.C.!g4:|
+
+%% A Variations
+d2BA (3GBd (3GBd|A2BA (3dBG (3dBG | \
+EDEF (3GBd (3GBd |c2B2 B2A2|\
+d2BA (3GBd (3GBd|A2BA (3GFD (3GFD| \
+EDEF G2 A/2B/2c/2d/2|B2 A2 !dacopo! {G}G4:|
+
+
+% G | D G | C G | C D
+% G | D G | C G | G D G
+% D G | C | G | D
+% D G | C | C D | G

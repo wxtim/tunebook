@@ -1,0 +1,23 @@
+%%equalbars 1
+%%notespacingfactor 2
+X:1
+T:Galasma
+C:Trad Cornish as played by Neil Davey (Arr. James Dumbleton)
+L:1/8
+M:C
+K:Em
+[V:T1] "Em" E2 BE B3 G | "D" A2 AB AG F2 | "Em" E2 BE B2 AG | "D" E2 D2 D4 |
+[V:T2] e3 f d3 e  | A6 B2       | G3 A B3 d   | A8       |
+[V:T3] c4 e4      | d4 B4       | c4 E4       | d8       |
+%%
+[V:T1] "Em" E2 BE B3 G | "D" A2 AB AG F2 | "Em" E2 E2 "D" DEFD  | "Em" E4 G2 A2  ||
+[V:T2] e3 f  d3 e | A6       B2 | G3 A  E3 D  | E6     z2 ||
+[V:T3][L:1/2] c e | D    B      | c     B     | c3/2   z/2 ||
+%%
+[V:T1] "G" B4 BA G2   | "D" A6 BA       | "Em" G3 E G2 A2  | "Bm" B3 D G2 A2 |
+[V:T2] g3 e d4    | f3 e d4     | B6      A2  | F8         |
+[V:T3][L:1/2] e2  | d2          | c   c/2 B/2 | G2         |
+%%
+[V:T1] "G" B4 BA G2   | "D" A6 BA       | "Em" D2 E2 "D" FGFD  | "Em" E8      |]
+[V:T2] g3 e d4    | f3 e d4     | B4    A4    | E8      |]
+[V:T3][L:1/2] e2  | d2          | c     B     | c2      |]

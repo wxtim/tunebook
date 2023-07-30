@@ -1,0 +1,30 @@
+X:1
+%%score { 1 | 2 }
+L:1/8
+M:2/4
+C:Harmony Myrna Luff
+K:G
+V:1 treble
+V:2 treble
+V:1
+ D |: GG F/G/A/F/ | GG A/B/c/A/ | BG AG | F/E/D D2 | GG (F/G/A/)F/ | GG A/B/c/A/ | BG AF | GG G :: %9
+ B |: dd cB | A>B cA | BG AG | F/E/D D2 | dd cB | A>B cA | BG AF | GG G :|
+V:2
+ d | BB A/B/c/A/ | BB c/d/e/c/ | dg fe | d/e/f dA | BB A/B/c/A/ | BB c/d/e/c/ | dg fd | BB B :: %9
+ G | BB ed | c>d ef | dg cB | A/G/F F2 | BB ed | c>d ef | d/e/f/g/ fd | BB B :| 
+
+X:2
+%%score { 1 | 2 }
+L:1/8
+M:2/4
+C:Harmony Myrna Luff
+K:G
+V:1 treble
+V:2 treble
+V:1
+|: Bd Bd | \
+ c/B/A/B/ cc | Ac Ac | B/A/G/A/ Bd | Bd Bd | c/B/A/B/ cc | Ac AF | G2 G2 :|
+ |: G>A Bc | d>e dB |  cA GA | B2 GD | G>A Bc | d>e dB | cA GF | G2 G2 :|
+V:2
+|: GD GB | A/G/F/G/ AA | FA FD | GD G/A/B/A/ | GD GB | A/G/F/G/ AG | FD Fc | B2 B2 :: 
+ D>F GA | B>c Bg | ec ef | g/f/e dB | !tenuto!D>F GA | B/A/B/c/ Bg | ec A/B/c/A/ | B2 B2 :| 

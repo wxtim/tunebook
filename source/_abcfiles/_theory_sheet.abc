@@ -1,0 +1,51 @@
+%%begintext
++1. Major (Ionian)
++2. Dorian
++3. Phyrigian
++4. Lydian
++5. Mixolydian
++6. Natural Minor (Aeolian)
++7. Locrian
+%%endtext
+
+X:0
+L:1/4
+M:4/4
+K:C
+%%begintext
+%%endtext
+"P"_B, "c"C "p"^C "p"D | "c"E "p"F "p"^F "➀"G | \
+"p"^G "➁"A "➂"B "➃"c | "p"^c "➄"d "p"^d "➅"e | \
+"p"=f "➆"^f "➇"g "p"^g | "c"a "p"b |
+"P"^G, "c"_B, "p"B, "p"C | "c"D "p"^D "p"E "➀"F | \
+"p"^G "➁"A "➂"B "➃"c | "p"^c "➄"d "p"^d "➅"e | \
+"p"=f "➆"^f "➇"g "p"^g | "c"a "p"b |
+
+
+X:1
+L:1/4
+M:4/4
+K:G
+%%text (E Minor)
+C D E ^F | "R4"GABc de^fg | ab |
+
+X:2
+L:1/4
+M:4/4
+K:F
+%%text (D Minor)
+_B,CDE| "R4"F G A _B c de f | | g a|
+
+X:3
+L:1/4
+M:4/4
+K:D
+%%text (B Minor)
+ ^C | D E ^F "R4"G A B "P"^c d | e^fg  ab |
+
+X:4
+L:1/4
+M:4/4
+K:C
+%%text (A Minor)
+Z| CDE "R4"F G A B c | de f  g a|

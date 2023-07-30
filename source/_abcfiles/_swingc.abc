@@ -1,0 +1,19 @@
+X:1
+%%score ( 1 2 )
+L:1/4
+M:none
+I:linebreak $
+K:none
+V:1 treble nm="Voice"
+V:2 treble 
+V:1
+ F/0 A/0.c/0 z/0 | F/0 G/0.A/0 z/0 G/0- | G/0 |$[K:treble] z/0 x/0 | d/0c/0- c/0 A/0G/0- | %5
+ G/0 D/0C/0- | C/0 || F/0 A/0c/0 z/0 | F/0 G/0A/0 z/0 G/0- |$ z/0 x/0 | z/0 d/0c/0 c/0 A/0G/0- | %11
+ G/0 D/0C/0- C/0 G/0F/0- | F/0 ||$ =c/0e/0 c/0A/0 z/0 | =c/0e/0c/0A/0 z/0 | z/0 c/0d/0 c/0A/0 | %16
+ c/0d/0c/0A/0 z/0 |$ z/0 =B/0d/0 B/0.G/0 | =B/0d/0B/0G/0 z/0 | z/0 e/0- e/0 c/0_B/0 z/0 G/0- | %20
+ G/0 || F/0 A/0c/0 z/0 | F/0 G/0A/0 z/0 G/0- |$ z/0 x/0 | d/0c/0 .c/0 A/0!ped!G/0- | %25
+ G/0 D/0C/0- C/0 G/0F/0- | F/0 |] %27
+V:2
+ x/0 | x/0 | z/0 |$[K:treble] F/0 A/0c/0d/0.f/0 | x/0 | x/0 | x/0 || x/0 | x/0 |$ %9
+ F/0 A/0c/0d/0.f/0 | x/0 | x/0 | z/0 x/0 ||$ x/0 | x/0 | x/0 | x/0 |$ x/0 | x/0 | x/0 | x/0 || %21
+ x/0 | x/0 |$ F/0 A/0c/0d/0f/0 | x/0 | x/0 | z/0 x/0 |] %27

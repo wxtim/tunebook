@@ -1,0 +1,26 @@
+%%transpose -7
+X: 1
+Q:120
+M:4/4
+L:1/8
+A:Lichfield
+P:A(AB)5
+K:D
+P:A
+d2de f2d2|B2gg g4|A2AB c2g2|f4 e4|
+d2de f2d2|B2gg g4|A2AB c2de|e4 d4||
+P:B
+a2aa g2g2|fgaf g4|a2aa g2gg|f4 e4|
+d2de f2d2|B2gg g4|A2AB c2de|e4 d4||
+P:A2
+d2de fedc|B2gg g4|A2AB c2fa|f4 e4|
+d2de fedc|B2gg g4|A2AB cdef|e4 d4||
+P:B2
+a2aa g2gg|fgaf e4|a2aa g2gg|f4 e4|
+d2de f2d2|B2gg g4|A2AB c2gf|e4 d4||
+P:A3
+c'bag fedc|B2 gg/2a/2 f3|ABcd efga|f4 e4|
+c'bag fedc|B2gg g4|ABcd efgf|e4 {c}d4||
+P:B3
+a2ab agf3/2 z|fgfe d4|a2aa g2gg|f4 e4|
+d2de f2d2|B2gg g4|A2AB c2gf|e4 d4||
