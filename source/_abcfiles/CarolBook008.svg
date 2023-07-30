@@ -1,0 +1,420 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+	"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	color="black"
+	width="701.60px" height="799.60px">
+<style type="text/css">
+.fill {fill: currentColor}
+.stroke {stroke: currentColor; fill: none}
+text{white-space: pre}
+</style>
+<title>/media/tim/Data1/tims_code/sphinx-tunes/source/_abcfiles/CarolBook.abc (370) tune 8</title>
+<!-- Creator: abcm2ps-8.14.6 -->
+<!-- CreationDate: Jul 30, 2023 12:21 -->
+<!-- CommandLine: -g /media/tim/Data1/tims_code/sphinx-tunes/source/_abcfiles/CarolBook.abc -O /media/tim/Data1/tims_code/sphinx-tunes/source/_abcfiles/CarolBook.svg -->
+<g stroke-width="0.70">
+<!-- title: Good King Wenceslas -->
+</g>
+<g stroke-width="0.70" style="font:20.00px Times">
+<text x="350.80" y="22.00" text-anchor="middle">Good King Wenceslas</text>
+</g>
+<g stroke-width="0.70" transform="scale(0.700)" style="font:20.00px Times">
+<defs>
+<path id="Hd" class="fill" d="m3 -1.6
+	c-1 -1.8 -7 1.4 -6 3.2
+	1 1.8 7 -1.4 6 -3.2
+	m0.5 -0.3
+	c2 3.8 -5 7.6 -7 3.8
+	-2 -3.8 5 -7.6 7 -3.8"/>
+</defs>
+<use x="111.57" y="75.57" xlink:href="#Hd"/>
+<path d="M115.07 75.57v-21.00" class="stroke"/>
+</g>
+<g stroke-width="0.70" style="font:bold 15.00px Times">
+<text x="85.80" y="55.00">= 100</text>
+<path class="stroke" stroke-width="1"
+	d="M77.50 104.00v-24.00"/>
+<path class="stroke" stroke-width="3"
+	d="M73.00 104.00v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M252.70 104.00v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M397.20 104.00v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M572.40 104.00v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M691.60 104.00v-24.00"/>
+<path d="m10.00 104.00
+	h681.60
+	M10.00 98.00
+	h681.60
+	M10.00 92.00
+	h681.60
+	M10.00 86.00
+	h681.60
+	M10.00 80.00
+	h681.60
+	" class="stroke"/>
+</g>
+<g stroke-width="0.70" style="font:12.00px Helvetica">
+<text x="89.00" y="70.60">G</text>
+<text x="175.70" y="70.60">C</text>
+<text x="264.10" y="70.60">G</text>
+<text x="409.00" y="70.60">C</text>
+<text x="492.50" y="70.60">D7</text>
+<text x="583.80" y="70.60">G</text>
+<defs>
+<path id="utclef" class="fill" d="m-50 -90
+	c-72 -41 -72 -158 52 -188
+	150 -10 220 188 90 256
+	-114 52 -275 0 -293 -136
+	-15 -181 93 -229 220 -334
+	88 -87 79 -133 62 -210
+	-51 33 -94 105 -89 186
+	17 267 36 374 49 574
+	6 96 -19 134 -77 135
+	-80 1 -126 -93 -61 -133
+	85 -41 133 101 31 105
+	23 17 92 37 90 -92
+	-10 -223 -39 -342 -50 -617
+	0 -90 0 -162 96 -232
+	56 72 63 230 22 289
+	-74 106 -257 168 -255 316
+	9 153 148 185 252 133
+	86 -65 29 -192 -80 -176
+	-71 12 -105 67 -59 124"/>
+<use id="tclef" transform="translate(0,6) scale(0.045)"
+	xlink:href="#utclef"/>
+</defs>
+<use x="22.00" y="98.00" xlink:href="#tclef"/>
+<defs>
+<path id="usharp" class="fill" d="
+	m136 -702
+	v890
+	h32
+	v-890
+	m128 840
+	h32
+	v-888
+	h-32
+	m-232 286
+	v116
+	l338 -96
+	v-116
+	m-338 442
+	v116
+	l338 -98
+	v-114"/>
+<use id="sh0" transform="translate(-4,5) scale(0.018)"
+	xlink:href="#usharp"/>
+</defs>
+<use x="37.00" y="80.00" xlink:href="#sh0"/>
+<g style="font:bold 16px serif"
+	transform="translate(53.00,103.50) scale(1.2,1)">
+	<text text-anchor="middle">2</text>
+	<text y="-12" text-anchor="middle">2</text>
+</g>
+<defs>
+<ellipse id="hd" rx="4.1" ry="2.9"
+	transform="rotate(-20)" class="fill"/>
+</defs>
+<use x="92.80" y="98.00" xlink:href="#hd"/>
+<path d="M96.30 98.00v-21.00" class="stroke"/>
+<use x="136.00" y="98.00" xlink:href="#hd"/>
+<path d="M139.50 98.00v-21.00" class="stroke"/>
+<use x="179.20" y="98.00" xlink:href="#hd"/>
+<path d="M182.70 98.00v-21.00" class="stroke"/>
+<use x="222.40" y="95.00" xlink:href="#hd"/>
+<path d="M225.90 95.00v-21.00" class="stroke"/>
+<use x="268.00" y="98.00" xlink:href="#hd"/>
+<path d="M271.50 98.00v-21.00" class="stroke"/>
+<use x="311.20" y="98.00" xlink:href="#hd"/>
+<path d="M314.70 98.00v-21.00" class="stroke"/>
+<use x="354.40" y="107.00" xlink:href="#Hd"/>
+<path d="M357.90 107.00v-21.00" class="stroke"/>
+<use x="412.50" y="104.00" xlink:href="#hd"/>
+<path d="M416.00 104.00v-21.00" class="stroke"/>
+<use x="455.70" y="107.00" xlink:href="#hd"/>
+<path d="M459.20 107.00v-21.00" class="stroke"/>
+<use x="498.90" y="104.00" xlink:href="#hd"/>
+<path d="M502.40 104.00v-21.00" class="stroke"/>
+<use x="542.10" y="101.00" xlink:href="#hd"/>
+<path d="M545.60 101.00v-21.00" class="stroke"/>
+<use x="587.70" y="98.00" xlink:href="#Hd"/>
+<path d="M591.20 98.00v-21.00" class="stroke"/>
+<use x="648.80" y="98.00" xlink:href="#Hd"/>
+<path d="M652.30 98.00v-21.00" class="stroke"/>
+</g>
+<g stroke-width="0.70" style="font:12.00px Helvetica">
+<path class="stroke" stroke-width="1"
+	d="M225.00 174.00v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M378.60 174.00v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M564.80 174.00v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M691.60 174.00v-24.00"/>
+<path d="m10.00 174.00
+	h681.60
+	M10.00 168.00
+	h681.60
+	M10.00 162.00
+	h681.60
+	M10.00 156.00
+	h681.60
+	M10.00 150.00
+	h681.60
+	" class="stroke"/>
+<text x="47.70" y="140.60">Em</text>
+<text x="143.40" y="140.60">C</text>
+<text x="237.40" y="140.60">G</text>
+<text x="329.30" y="140.60">D</text>
+<text x="391.30" y="140.60">C</text>
+<text x="480.30" y="140.60">D7</text>
+<text x="577.30" y="140.60">G</text>
+<use x="22.00" y="168.00" xlink:href="#tclef"/>
+<use x="37.00" y="150.00" xlink:href="#sh0"/>
+<use x="55.00" y="168.00" xlink:href="#hd"/>
+<path d="M58.50 168.00v-21.00" class="stroke"/>
+<use x="100.90" y="168.00" xlink:href="#hd"/>
+<path d="M104.40 168.00v-21.00" class="stroke"/>
+<use x="146.90" y="168.00" xlink:href="#hd"/>
+<path d="M150.40 168.00v-21.00" class="stroke"/>
+<use x="192.80" y="165.00" xlink:href="#hd"/>
+<path d="M196.30 165.00v-21.00" class="stroke"/>
+<use x="241.20" y="168.00" xlink:href="#hd"/>
+<path d="M244.70 168.00v-21.00" class="stroke"/>
+<use x="287.20" y="168.00" xlink:href="#hd"/>
+<path d="M290.70 168.00v-21.00" class="stroke"/>
+<use x="333.10" y="177.00" xlink:href="#Hd"/>
+<path d="M336.60 177.00v-21.00" class="stroke"/>
+<use x="394.90" y="174.00" xlink:href="#hd"/>
+<path d="M398.40 174.00v-21.00" class="stroke"/>
+<use x="440.80" y="177.00" xlink:href="#hd"/>
+<path d="M444.30 177.00v-21.00" class="stroke"/>
+<use x="486.70" y="174.00" xlink:href="#hd"/>
+<path d="M490.20 174.00v-21.00" class="stroke"/>
+<use x="532.70" y="171.00" xlink:href="#hd"/>
+<path d="M536.20 171.00v-21.00" class="stroke"/>
+<use x="581.10" y="168.00" xlink:href="#Hd"/>
+<path d="M584.60 168.00v-21.00" class="stroke"/>
+<use x="646.10" y="168.00" xlink:href="#Hd"/>
+<path d="M649.60 168.00v-21.00" class="stroke"/>
+</g>
+<g stroke-width="0.70" style="font:12.00px Helvetica">
+<path class="stroke" stroke-width="1"
+	d="M221.60 248.00v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M376.30 248.00v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M563.90 248.00v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M691.60 248.00v-24.00"/>
+<path d="m10.00 248.00
+	h681.60
+	M10.00 242.00
+	h681.60
+	M10.00 236.00
+	h681.60
+	M10.00 230.00
+	h681.60
+	M10.00 224.00
+	h681.60
+	" class="stroke"/>
+<text x="51.20" y="208.60">G</text>
+<text x="231.50" y="208.60">D7</text>
+<text x="323.20" y="208.60">Em</text>
+<text x="389.20" y="208.60">C</text>
+<text x="478.80" y="208.60">D7</text>
+<text x="576.50" y="208.60">G</text>
+<use x="22.00" y="242.00" xlink:href="#tclef"/>
+<use x="37.00" y="224.00" xlink:href="#sh0"/>
+<use x="55.00" y="230.00" xlink:href="#hd"/>
+<path d="M51.50 230.00v21.00" class="stroke"/>
+<use x="101.30" y="233.00" xlink:href="#hd"/>
+<path d="M97.80 233.00v21.00" class="stroke"/>
+<use x="147.50" y="236.00" xlink:href="#hd"/>
+<path d="M144.00 236.00v21.00" class="stroke"/>
+<use x="189.20" y="239.00" xlink:href="#hd"/>
+<path d="M192.70 239.00v-21.00" class="stroke"/>
+<use x="238.00" y="236.00" xlink:href="#hd"/>
+<path d="M241.50 236.00v-21.00" class="stroke"/>
+<use x="284.20" y="239.00" xlink:href="#hd"/>
+<path d="M287.70 239.00v-21.00" class="stroke"/>
+<use x="330.50" y="242.00" xlink:href="#Hd"/>
+<path d="M334.00 242.00v-21.00" class="stroke"/>
+<use x="392.70" y="248.00" xlink:href="#hd"/>
+<path d="M396.20 248.00v-21.00" class="stroke"/>
+<use x="439.00" y="251.00" xlink:href="#hd"/>
+<path d="M442.50 251.00v-21.00" class="stroke"/>
+<use x="485.30" y="248.00" xlink:href="#hd"/>
+<path d="M488.80 248.00v-21.00" class="stroke"/>
+<use x="531.50" y="245.00" xlink:href="#hd"/>
+<path d="M535.00 245.00v-21.00" class="stroke"/>
+<use x="580.30" y="242.00" xlink:href="#Hd"/>
+<path d="M583.80 242.00v-21.00" class="stroke"/>
+<use x="645.80" y="242.00" xlink:href="#Hd"/>
+<path d="M649.30 242.00v-21.00" class="stroke"/>
+</g>
+<g stroke-width="0.70" style="font:12.00px Helvetica">
+<path class="stroke" stroke-width="1"
+	d="M204.90 319.00v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M340.40 319.00v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M500.60 319.00v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M612.40 319.00v-24.00"/>
+<path class="stroke" stroke-width="3"
+	d="M690.10 319.00v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M685.60 319.00v-24.00"/>
+<path d="m10.00 319.00
+	h681.60
+	M10.00 313.00
+	h681.60
+	M10.00 307.00
+	h681.60
+	M10.00 301.00
+	h681.60
+	M10.00 295.00
+	h681.60
+	" class="stroke"/>
+<text x="51.20" y="282.60">D</text>
+<text x="211.90" y="282.60">Em</text>
+<text x="293.80" y="282.60">D7</text>
+<text x="351.00" y="282.60">G</text>
+<text x="507.60" y="282.60">Em</text>
+<text x="568.80" y="282.60">C</text>
+<text x="623.00" y="282.60">G</text>
+<use x="22.00" y="313.00" xlink:href="#tclef"/>
+<use x="37.00" y="295.00" xlink:href="#sh0"/>
+<use x="55.00" y="322.00" xlink:href="#hd"/>
+<path d="M58.50 322.00v-21.00" class="stroke"/>
+<use x="95.50" y="322.00" xlink:href="#hd"/>
+<path d="M99.00 322.00v-21.00" class="stroke"/>
+<use x="136.00" y="319.00" xlink:href="#hd"/>
+<path d="M139.50 319.00v-21.00" class="stroke"/>
+<use x="176.60" y="316.00" xlink:href="#hd"/>
+<path d="M180.10 316.00v-21.00" class="stroke"/>
+<use x="219.30" y="313.00" xlink:href="#hd"/>
+<path d="M222.80 313.00v-21.00" class="stroke"/>
+<use x="259.80" y="313.00" xlink:href="#hd"/>
+<path d="M263.30 313.00v-21.00" class="stroke"/>
+<use x="300.30" y="310.00" xlink:href="#Hd"/>
+<path d="M303.80 310.00v-21.00" class="stroke"/>
+<use x="354.80" y="301.00" xlink:href="#hd"/>
+<path d="M351.30 301.00v21.00" class="stroke"/>
+<use x="395.30" y="304.00" xlink:href="#hd"/>
+<path d="M391.80 304.00v21.00" class="stroke"/>
+<use x="435.80" y="307.00" xlink:href="#hd"/>
+<path d="M432.30 307.00v21.00" class="stroke"/>
+<use x="472.30" y="310.00" xlink:href="#hd"/>
+<path d="M475.80 310.00v-21.00" class="stroke"/>
+<use x="515.00" y="313.00" xlink:href="#Hd"/>
+<path d="M518.50 313.00v-21.00" class="stroke"/>
+<use x="572.30" y="304.00" xlink:href="#Hd"/>
+<path d="M568.80 304.00v21.00" class="stroke"/>
+<defs>
+<path id="HD" class="fill" d="m-2.7 -1.4
+	c1.5 -2.8 6.9 0 5.3 2.7
+	-1.5 2.8 -6.9 0 -5.3 -2.7
+	m8.3 1.4
+	c0 -1.5 -2.2 -3 -5.6 -3
+	-3.4 0 -5.6 1.5 -5.6 3
+	0 1.5 2.2 3 5.6 3
+	3.4 0 5.6 -1.5 5.6 -3"/>
+</defs>
+<use x="627.80" y="313.00" xlink:href="#HD"/>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="359.60">Good King Wenceslas looked out</text>
+<text x="375.80" y="359.60">Bring me flesh and bring me wine</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="377.20">On the Feast of Stephen</text>
+<text x="375.80" y="377.20">Bring me pine logs hither</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="394.80">When the snow lay round about</text>
+<text x="375.80" y="394.80">Thou and I shall see him dine</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="412.40">Deep and crisp and even</text>
+<text x="375.80" y="412.40">When we bear them thither.</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="430.00">Brightly shone the moon that night</text>
+<text x="375.80" y="430.00">Page and monarch, forth they went</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="447.60">Though the frost was cruel</text>
+<text x="375.80" y="447.60">Forth they went together</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="465.20">When a poor man came in sight</text>
+<text x="375.80" y="465.20">Through the rude winds wild lament</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="482.80">Gathering winter fuel</text>
+<text x="375.80" y="482.80">And the bitter weather</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="518.00">Hither, page, and stand by me,</text>
+<text x="375.80" y="518.00">Sire, the night is darker now</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="535.60">If thou knowst it, telling</text>
+<text x="375.80" y="535.60">And the wind blows stronger</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="553.20">Yonder peasant, who is he?</text>
+<text x="375.80" y="553.20">Fails my heart, I know not how</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="570.80">Where and what his dwelling?</text>
+<text x="375.80" y="570.80">I can go no longer.</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="588.40">Sire, he lives a good league hence,</text>
+<text x="375.80" y="588.40">Mark my footsteps, good my page</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="606.00">Underneath the mountain</text>
+<text x="375.80" y="606.00">Tread thou in them boldly</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="623.60">Right against the forest fence</text>
+<text x="375.80" y="623.60">Thou shall find the winters rage</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="641.20">By Saint Agnes fountain.</text>
+<text x="375.80" y="641.20">Freeze thy blood less coldly.</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="239.50" y="676.40">In his masters step he trod</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="239.50" y="694.00">Where the snow lay dinted</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="239.50" y="711.60">Heat was in the very sod</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="239.50" y="729.20">Which the Saint had printed</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="239.50" y="746.80">Therefore, Christian men, be sure</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="239.50" y="764.40">Wealth or rank possessing</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="239.50" y="782.00">Ye, who now will bless the poor</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="239.50" y="799.60">Shall yourselves find blessing.</text>
+</g>
+</svg>

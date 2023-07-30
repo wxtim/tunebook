@@ -1,0 +1,445 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+	"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	color="black"
+	width="701.60px" height="614.00px">
+<style type="text/css">
+.fill {fill: currentColor}
+.stroke {stroke: currentColor; fill: none}
+text{white-space: pre}
+</style>
+<title>/media/tim/Data1/tims_code/sphinx-tunes/source/_abcfiles/All through the (0) tune 1</title>
+<!-- Creator: abcm2ps-8.14.6 -->
+<!-- CreationDate: Jul 30, 2023 12:21 -->
+<!-- CommandLine: -g '/media/tim/Data1/tims_code/sphinx-tunes/source/_abcfiles/All through the night.abc' -O '/media/tim/Data1/tims_code/sphinx-tunes/source/_abcfiles/All through the night.svg' -->
+<g stroke-width="0.70">
+<!-- title: All through the night -->
+</g>
+<g stroke-width="0.70" style="font:20.00px Times">
+<text x="350.80" y="22.00" text-anchor="middle">All through the night</text>
+</g>
+<g stroke-width="0.70" style="font:italic 14.00px Times">
+<text x="691.60" y="46.00" text-anchor="end">anon. (Wales)</text>
+</g>
+<g stroke-width="0.70" transform="scale(0.700)" style="font:italic 14.00px Times">
+<defs>
+<ellipse id="hd" rx="4.1" ry="2.9"
+	transform="rotate(-20)" class="fill"/>
+</defs>
+<use x="124.43" y="95.57" xlink:href="#hd"/>
+<path d="M127.93 95.57v-21.00" class="stroke"/>
+</g>
+<g stroke-width="0.70" style="font:bold 15.00px Times">
+<text x="94.80" y="69.00">= 104</text>
+<path class="stroke" stroke-width="1"
+	d="M249.30 107.00v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M436.50 107.00v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M593.60 107.00v-24.00"/>
+<path class="stroke" stroke-width="3"
+	d="M690.10 107.00v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M685.60 107.00v-24.00"/>
+<defs>
+<g id="rdots" class="fill">
+	<circle cx="0" cy="-9" r="1.2"/>
+	<circle cx="0" cy="-15" r="1.2"/>
+</g>
+</defs>
+<use x="681.60" y="107.00" xlink:href="#rdots"/>
+<path d="m10.00 107.00
+	h681.60
+	M10.00 101.00
+	h681.60
+	M10.00 95.00
+	h681.60
+	M10.00 89.00
+	h681.60
+	M10.00 83.00
+	h681.60
+	" class="stroke"/>
+</g>
+<g stroke-width="0.70" style="font:13.00px Arial">
+<text x="70.90" y="129.10">Sleep</text>
+<text x="128.60" y="129.10">my</text>
+<text x="156.90" y="129.10">child</text>
+<text x="206.00" y="129.10">and</text>
+<text x="257.80" y="129.10">peace</text>
+<text x="314.50" y="129.10">att</text>
+<path class="stroke" stroke-width="1.2"
+	stroke-dasharray="5,20"
+	d="M339.15 125.20h5"/>
+<text x="347.30" y="129.10">end</text>
+<text x="392.00" y="129.10">thee</text>
+<text x="445.00" y="129.10">all</text>
+<text x="498.60" y="129.10">through</text>
+<text x="561.00" y="129.10">the</text>
+<text x="602.10" y="129.10">night.</text>
+<text x="66.50" y="143.40">Guard</text>
+<path class="stroke" stroke-width="1.2"
+	stroke-dasharray="5,20"
+	d="M116.65 139.50h5"/>
+<text x="128.90" y="143.40">ian</text>
+<text x="157.30" y="143.40">ang</text>
+<path class="stroke" stroke-width="1.2"
+	stroke-dasharray="5,23"
+	d="M194.05 139.50h5"/>
+<text x="207.90" y="143.40">els</text>
+<text x="261.00" y="143.40">God</text>
+<text x="314.20" y="143.40">will</text>
+<text x="345.10" y="143.40">send</text>
+<text x="392.00" y="143.40">thee</text>
+<text x="445.00" y="143.40">all</text>
+<text x="498.60" y="143.40">through</text>
+<text x="561.00" y="143.40">the</text>
+<text x="602.10" y="143.40">night.</text>
+<defs>
+<path id="utclef" class="fill" d="m-50 -90
+	c-72 -41 -72 -158 52 -188
+	150 -10 220 188 90 256
+	-114 52 -275 0 -293 -136
+	-15 -181 93 -229 220 -334
+	88 -87 79 -133 62 -210
+	-51 33 -94 105 -89 186
+	17 267 36 374 49 574
+	6 96 -19 134 -77 135
+	-80 1 -126 -93 -61 -133
+	85 -41 133 101 31 105
+	23 17 92 37 90 -92
+	-10 -223 -39 -342 -50 -617
+	0 -90 0 -162 96 -232
+	56 72 63 230 22 289
+	-74 106 -257 168 -255 316
+	9 153 148 185 252 133
+	86 -65 29 -192 -80 -176
+	-71 12 -105 67 -59 124"/>
+<use id="tclef" transform="translate(0,6) scale(0.045)"
+	xlink:href="#utclef"/>
+</defs>
+<use x="22.00" y="101.00" xlink:href="#tclef"/>
+<defs>
+<path id="usharp" class="fill" d="
+	m136 -702
+	v890
+	h32
+	v-890
+	m128 840
+	h32
+	v-888
+	h-32
+	m-232 286
+	v116
+	l338 -96
+	v-116
+	m-338 442
+	v116
+	l338 -98
+	v-114"/>
+<use id="sh0" transform="translate(-4,5) scale(0.018)"
+	xlink:href="#usharp"/>
+</defs>
+<use x="37.00" y="83.00" xlink:href="#sh0"/>
+<defs>
+<path id="csig" class="fill" d="
+	m6 -5.3
+	c0.9 0 2.3 0.7 2.4 2.2
+	-1.2 -2 -3.6 0.1 -1.6 1.7
+	2 1 3.8 -3.5 -0.8 -4.7
+	-2 -0.4 -6.4 1.3 -5.8 7
+	0.4 6.4 7.9 6.8 9.1 0.7
+	-2.3 5.6 -6.7 5.1 -6.8 0
+	-0.5 -4.4 0.7 -7.5 3.5 -6.9"/>
+</defs>
+<use x="48.00" y="95.00" xlink:href="#csig"/>
+<use x="86.50" y="101.00" xlink:href="#hd"/>
+<circle class="fill" cx="94.20" cy="98.00" r="1.2"/>
+<path d="M90.00 101.00v-21.00" class="stroke"/>
+<use x="138.80" y="104.00" xlink:href="#hd"/>
+<path d="M142.30 104.00v-21.00" class="stroke"/>
+<path class="fill"
+	d="M142.30 83.00c0.6 5.6 9.6 9 5.6 18.4
+	1.6 -6 -1.3 -11.6 -5.6 -12.8
+"/>
+<use x="171.20" y="107.00" xlink:href="#hd"/>
+<path d="M174.70 107.00v-21.00" class="stroke"/>
+<use x="217.10" y="101.00" xlink:href="#hd"/>
+<path d="M220.60 101.00v-21.00" class="stroke"/>
+<use x="273.70" y="98.00" xlink:href="#hd"/>
+<circle class="fill" cx="281.40" cy="98.00" r="1.2"/>
+<path d="M277.20 98.00v-21.00" class="stroke"/>
+<use x="326.00" y="101.00" xlink:href="#hd"/>
+<path d="M329.50 101.00v-21.00" class="stroke"/>
+<path class="fill"
+	d="M329.50 80.00c0.6 5.6 9.6 9 5.6 18.4
+	1.6 -6 -1.3 -11.6 -5.6 -12.8
+"/>
+<use x="358.40" y="104.00" xlink:href="#hd"/>
+<path d="M361.90 104.00v-21.00" class="stroke"/>
+<use x="404.30" y="110.00" xlink:href="#hd"/>
+<path d="M407.80 110.00v-21.00" class="stroke"/>
+<defs>
+<path id="Hd" class="fill" d="m3 -1.6
+	c-1 -1.8 -7 1.4 -6 3.2
+	1 1.8 7 -1.4 6 -3.2
+	m0.5 -0.3
+	c2 3.8 -5 7.6 -7 3.8
+	-2 -3.8 5 -7.6 7 -3.8"/>
+</defs>
+<use x="453.60" y="107.00" xlink:href="#Hd"/>
+<path d="M457.10 107.00v-21.00" class="stroke"/>
+<use x="518.60" y="104.00" xlink:href="#hd"/>
+<circle class="fill" cx="526.30" cy="104.00" r="1.2"/>
+<path d="M522.10 104.00v-21.00" class="stroke"/>
+<use x="570.80" y="101.00" xlink:href="#hd"/>
+<path d="M574.30 101.00v-21.00" class="stroke"/>
+<path class="fill"
+	d="M574.30 80.00c0.6 5.6 9.6 9 5.6 18.4
+	1.6 -6 -1.3 -11.6 -5.6 -12.8
+"/>
+<defs>
+<path id="HD" class="fill" d="m-2.7 -1.4
+	c1.5 -2.8 6.9 0 5.3 2.7
+	-1.5 2.8 -6.9 0 -5.3 -2.7
+	m8.3 1.4
+	c0 -1.5 -2.2 -3 -5.6 -3
+	-3.4 0 -5.6 1.5 -5.6 3
+	0 1.5 2.2 3 5.6 3
+	3.4 0 5.6 -1.5 5.6 -3"/>
+</defs>
+<use x="619.10" y="101.00" xlink:href="#HD"/>
+</g>
+<g stroke-width="0.70" style="font:13.00px Arial">
+<path class="stroke" stroke-width="1"
+	d="M201.70 194.60v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M368.60 194.60v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M525.60 194.60v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M691.60 194.60v-24.00"/>
+<path d="m10.00 194.60
+	h681.60
+	M10.00 188.60
+	h681.60
+	M10.00 182.60
+	h681.60
+	M10.00 176.60
+	h681.60
+	M10.00 170.60
+	h681.60
+	" class="stroke"/>
+<text x="46.50" y="219.70">Soft</text>
+<text x="87.60" y="219.70">the</text>
+<text x="116.50" y="219.70">drows</text>
+<path class="stroke" stroke-width="1.2"
+	stroke-dasharray="5,20"
+	d="M161.45 215.80h5"/>
+<text x="169.30" y="219.70">y</text>
+<text x="209.70" y="219.70">hours</text>
+<text x="254.10" y="219.70">are</text>
+<text x="284.60" y="219.70">creep</text>
+<path class="stroke" stroke-width="1.2"
+	stroke-dasharray="5,20"
+	d="M323.85 215.80h5"/>
+<text x="330.00" y="219.70">ing,</text>
+<text x="376.60" y="219.70">hill</text>
+<text x="414.40" y="219.70">and</text>
+<text x="448.00" y="219.70">vale</text>
+<text x="491.50" y="219.70">in</text>
+<text x="533.60" y="219.70">slumb</text>
+<path class="stroke" stroke-width="1.2"
+	stroke-dasharray="5,20"
+	d="M580.35 215.80h5"/>
+<text x="590.00" y="219.70">er</text>
+<text x="608.30" y="219.70">sleep</text>
+<path class="stroke" stroke-width="1.2"
+	stroke-dasharray="5,20"
+	d="M646.40 215.80h5"/>
+<text x="653.00" y="219.70">ing.</text>
+<use x="22.00" y="188.60" xlink:href="#tclef"/>
+<use x="37.00" y="170.60" xlink:href="#sh0"/>
+<use x="58.90" y="179.60" xlink:href="#hd"/>
+<path d="M55.40 179.60v21.00" class="stroke"/>
+<use x="97.40" y="182.60" xlink:href="#hd"/>
+<path d="M93.90 182.60v21.00" class="stroke"/>
+<use x="136.20" y="179.60" xlink:href="#hd"/>
+<path d="M132.70 179.60v21.00" class="stroke"/>
+<use x="175.00" y="176.60" xlink:href="#hd"/>
+<path d="M171.50 176.60v21.00" class="stroke"/>
+<use x="225.30" y="173.60" xlink:href="#hd"/>
+<path d="M221.80 173.60v21.00" class="stroke"/>
+<use x="264.00" y="176.60" xlink:href="#hd"/>
+<path d="M260.50 176.60v21.00" class="stroke"/>
+<use x="302.70" y="179.60" xlink:href="#hd"/>
+<path d="M299.20 179.60v21.00" class="stroke"/>
+<use x="341.60" y="182.60" xlink:href="#hd"/>
+<path d="M338.10 182.60v21.00" class="stroke"/>
+<use x="387.10" y="179.60" xlink:href="#hd"/>
+<path d="M383.60 179.60v21.00" class="stroke"/>
+<use x="425.50" y="182.60" xlink:href="#hd"/>
+<path d="M422.00 182.60v21.00" class="stroke"/>
+<use x="460.30" y="185.60" xlink:href="#hd"/>
+<path d="M463.80 185.60v-21.00" class="stroke"/>
+<use x="498.80" y="188.60" xlink:href="#hd"/>
+<path d="M502.30 188.60v-21.00" class="stroke"/>
+<use x="553.30" y="182.60" xlink:href="#hd"/>
+<circle class="fill" cx="561.00" cy="179.60" r="1.2"/>
+<path d="M556.80 182.60v-21.00" class="stroke"/>
+<use x="597.30" y="185.60" xlink:href="#hd"/>
+<path d="M600.80 185.60v-21.00" class="stroke"/>
+<path class="fill"
+	d="M600.80 164.60c0.6 5.6 9.6 9 5.6 18.4
+	1.6 -6 -1.3 -11.6 -5.6 -12.8
+"/>
+<use x="625.70" y="188.60" xlink:href="#hd"/>
+<path d="M629.20 188.60v-21.00" class="stroke"/>
+<use x="664.60" y="191.60" xlink:href="#hd"/>
+<path d="M668.10 191.60v-21.00" class="stroke"/>
+</g>
+<g stroke-width="0.70" style="font:13.00px Arial">
+<path class="stroke" stroke-width="1"
+	d="M233.80 270.90v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M428.10 270.90v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M590.70 270.90v-24.00"/>
+<path class="stroke" stroke-width="3"
+	d="M690.10 270.90v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M685.60 270.90v-24.00"/>
+<path d="m10.00 270.90
+	h681.60
+	M10.00 264.90
+	h681.60
+	M10.00 258.90
+	h681.60
+	M10.00 252.90
+	h681.60
+	M10.00 246.90
+	h681.60
+	" class="stroke"/>
+<text x="46.50" y="293.00">Moth</text>
+<path class="stroke" stroke-width="1.2"
+	stroke-dasharray="5,23"
+	d="M95.60 289.10h5"/>
+<text x="111.60" y="293.00">er</text>
+<text x="140.00" y="293.00">here</text>
+<text x="190.30" y="293.00">her</text>
+<text x="242.40" y="293.00">watch</text>
+<text x="306.50" y="293.00">is</text>
+<text x="330.40" y="293.00">keep</text>
+<path class="stroke" stroke-width="1.2"
+	stroke-dasharray="5,20"
+	d="M372.05 289.10h5"/>
+<text x="384.50" y="293.00">ing</text>
+<text x="436.60" y="293.00">all</text>
+<text x="492.70" y="293.00">through</text>
+<text x="557.20" y="293.00">the</text>
+<text x="599.20" y="293.00">night.</text>
+<use x="22.00" y="264.90" xlink:href="#tclef"/>
+<use x="37.00" y="246.90" xlink:href="#sh0"/>
+<use x="64.60" y="264.90" xlink:href="#hd"/>
+<circle class="fill" cx="72.30" cy="261.90" r="1.2"/>
+<path d="M68.10 264.90v-21.00" class="stroke"/>
+<use x="118.90" y="267.90" xlink:href="#hd"/>
+<path d="M122.40 267.90v-21.00" class="stroke"/>
+<path class="fill"
+	d="M122.40 246.90c0.6 5.6 9.6 9 5.6 18.4
+	1.6 -6 -1.3 -11.6 -5.6 -12.8
+"/>
+<use x="152.70" y="270.90" xlink:href="#hd"/>
+<path d="M156.20 270.90v-21.00" class="stroke"/>
+<use x="200.40" y="264.90" xlink:href="#hd"/>
+<path d="M203.90 264.90v-21.00" class="stroke"/>
+<use x="258.90" y="261.90" xlink:href="#hd"/>
+<circle class="fill" cx="266.60" cy="261.90" r="1.2"/>
+<path d="M262.40 261.90v-21.00" class="stroke"/>
+<use x="313.20" y="264.90" xlink:href="#hd"/>
+<path d="M316.70 264.90v-21.00" class="stroke"/>
+<path class="fill"
+	d="M316.70 243.90c0.6 5.6 9.6 9 5.6 18.4
+	1.6 -6 -1.3 -11.6 -5.6 -12.8
+"/>
+<use x="347.00" y="267.90" xlink:href="#hd"/>
+<path d="M350.50 267.90v-21.00" class="stroke"/>
+<use x="394.70" y="273.90" xlink:href="#hd"/>
+<path d="M398.20 273.90v-21.00" class="stroke"/>
+<use x="445.20" y="270.90" xlink:href="#Hd"/>
+<path d="M448.70 270.90v-21.00" class="stroke"/>
+<use x="512.70" y="267.90" xlink:href="#hd"/>
+<circle class="fill" cx="520.40" cy="267.90" r="1.2"/>
+<path d="M516.20 267.90v-21.00" class="stroke"/>
+<use x="567.00" y="264.90" xlink:href="#hd"/>
+<path d="M570.50 264.90v-21.00" class="stroke"/>
+<path class="fill"
+	d="M570.50 243.90c0.6 5.6 9.6 9 5.6 18.4
+	1.6 -6 -1.3 -11.6 -5.6 -12.8
+"/>
+<use x="616.20" y="264.90" xlink:href="#HD"/>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="375.80" y="314.80">---</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="332.40">Sleep my child and peace attend thee</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="350.00">all through the night.</text>
+<text x="375.80" y="350.00">Alternative 2nd verse:</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="367.60">Guardian angels God will send thee</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="385.20">all through the night.</text>
+<text x="375.80" y="385.20">Though I roam a minstrel lonely,</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="402.80">Soft the drowsy hours are creeping,</text>
+<text x="375.80" y="402.80">all through the night,</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="420.40">hill and vale in slumber sleeping.</text>
+<text x="375.80" y="420.40">my true harp shall praise thee only,</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="438.00">Mother here her watch is keeping</text>
+<text x="375.80" y="438.00">all through the night.</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="455.60">all through the night.</text>
+<text x="375.80" y="455.60">Loveºs young dream, alas, is over</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="375.80" y="473.20">yet my strains of love shall hover</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="490.80">While the moon her watch is keeping</text>
+<text x="375.80" y="490.80">near the presence of my lover,</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="508.40">all through the night;</text>
+<text x="375.80" y="508.40">all through the night.</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="526.00">While the weary world is sleeping</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="543.60">all through the night,</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="561.20">O&apos;er thy spirit gently stealing,</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="578.80">visions of delight revealing,</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="596.40">breathes a pure and holy feeling</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="614.00">all through the night.</text>
+</g>
+</svg>

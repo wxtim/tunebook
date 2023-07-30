@@ -1,0 +1,580 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+	"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	color="black"
+	width="701.60px" height="914.10px">
+<style type="text/css">
+.fill {fill: currentColor}
+.stroke {stroke: currentColor; fill: none}
+text{white-space: pre}
+</style>
+<title>/media/tim/Data1/tims_code/sphinx-tunes/source/_abcfiles/CarolBook.abc (1) tune 1</title>
+<!-- Creator: abcm2ps-8.14.6 -->
+<!-- CreationDate: Jul 30, 2023 12:21 -->
+<!-- CommandLine: -g /media/tim/Data1/tims_code/sphinx-tunes/source/_abcfiles/CarolBook.abc -O /media/tim/Data1/tims_code/sphinx-tunes/source/_abcfiles/CarolBook.svg -->
+<g stroke-width="0.70">
+<!-- title: Adeste Fideles / O Come All ye Faithful -->
+</g>
+<g stroke-width="0.70" style="font:20.00px Times">
+<text x="350.80" y="22.00" text-anchor="middle">Adeste Fideles / O Come All ye Faithful</text>
+</g>
+<g stroke-width="0.70" style="font:italic 14.00px Times">
+<text x="691.60" y="46.00" text-anchor="end">John Francis Wade (1711-1786) (England)</text>
+</g>
+<g stroke-width="0.70" style="font:italic 14.00px Times">
+<path class="stroke" stroke-width="1"
+	d="M102.10 103.00v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M254.10 103.00v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M376.70 103.00v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M549.00 103.00v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M691.60 103.00v-24.00"/>
+<path d="m10.00 103.00
+	h681.60
+	M10.00 97.00
+	h681.60
+	M10.00 91.00
+	h681.60
+	M10.00 85.00
+	h681.60
+	M10.00 79.00
+	h681.60
+	" class="stroke"/>
+</g>
+<g stroke-width="0.70" style="font:12.00px Helvetica">
+<text x="123.00" y="63.60">G</text>
+<text x="274.60" y="63.60">D</text>
+<text x="394.00" y="63.60">G</text>
+<text x="516.90" y="63.60">C</text>
+<text x="566.30" y="63.60">G</text>
+<text x="618.30" y="63.60">D</text>
+</g>
+<g stroke-width="0.70" style="font:13.00px Arial">
+<text x="66.50" y="128.10">O</text>
+<text x="110.20" y="128.10">come,</text>
+<text x="176.10" y="128.10">all</text>
+<text x="217.30" y="128.10">ye</text>
+<text x="262.20" y="128.10">faith</text>
+<path class="stroke" stroke-width="1.2"
+	stroke-dasharray="5,23"
+	d="M308.10 124.20h5"/>
+<text x="325.60" y="128.10">ful,</text>
+<text x="384.80" y="128.10">joy</text>
+<path class="stroke" stroke-width="1.2"
+	stroke-dasharray="5,20"
+	d="M417.35 124.20h5"/>
+<text x="429.40" y="128.10">ful</text>
+<text x="468.40" y="128.10">and</text>
+<text x="509.60" y="128.10">tri</text>
+<path class="stroke" stroke-width="1.2"
+	stroke-dasharray="5,23"
+	d="M540.70 124.20h5"/>
+<text x="557.10" y="128.10">um</text>
+<path class="stroke" stroke-width="1.2"
+	stroke-dasharray="5,23"
+	d="M591.30 124.20h5"/>
+<text x="605.10" y="128.10">phant,</text>
+<text x="656.00" y="128.10">O</text>
+<defs>
+<path id="utclef" class="fill" d="m-50 -90
+	c-72 -41 -72 -158 52 -188
+	150 -10 220 188 90 256
+	-114 52 -275 0 -293 -136
+	-15 -181 93 -229 220 -334
+	88 -87 79 -133 62 -210
+	-51 33 -94 105 -89 186
+	17 267 36 374 49 574
+	6 96 -19 134 -77 135
+	-80 1 -126 -93 -61 -133
+	85 -41 133 101 31 105
+	23 17 92 37 90 -92
+	-10 -223 -39 -342 -50 -617
+	0 -90 0 -162 96 -232
+	56 72 63 230 22 289
+	-74 106 -257 168 -255 316
+	9 153 148 185 252 133
+	86 -65 29 -192 -80 -176
+	-71 12 -105 67 -59 124"/>
+<use id="tclef" transform="translate(0,6) scale(0.045)"
+	xlink:href="#utclef"/>
+</defs>
+<use x="22.00" y="97.00" xlink:href="#tclef"/>
+<defs>
+<path id="usharp" class="fill" d="
+	m136 -702
+	v890
+	h32
+	v-890
+	m128 840
+	h32
+	v-888
+	h-32
+	m-232 286
+	v116
+	l338 -96
+	v-116
+	m-338 442
+	v116
+	l338 -98
+	v-114"/>
+<use id="sh0" transform="translate(-4,5) scale(0.018)"
+	xlink:href="#usharp"/>
+</defs>
+<use x="37.00" y="79.00" xlink:href="#sh0"/>
+<g style="font:bold 16px serif"
+	transform="translate(53.00,102.50) scale(1.2,1)">
+	<text text-anchor="middle">4</text>
+	<text y="-12" text-anchor="middle">4</text>
+</g>
+<defs>
+<ellipse id="hd" rx="4.1" ry="2.9"
+	transform="rotate(-20)" class="fill"/>
+</defs>
+<use x="73.50" y="97.00" xlink:href="#hd"/>
+<path d="M77.00 97.00v-21.00" class="stroke"/>
+<defs>
+<path id="Hd" class="fill" d="m3 -1.6
+	c-1 -1.8 -7 1.4 -6 3.2
+	1 1.8 7 -1.4 6 -3.2
+	m0.5 -0.3
+	c2 3.8 -5 7.6 -7 3.8
+	-2 -3.8 5 -7.6 7 -3.8"/>
+</defs>
+<use x="126.80" y="97.00" xlink:href="#Hd"/>
+<path d="M130.30 97.00v-21.00" class="stroke"/>
+<use x="184.70" y="106.00" xlink:href="#hd"/>
+<path d="M188.20 106.00v-21.00" class="stroke"/>
+<use x="225.50" y="97.00" xlink:href="#hd"/>
+<path d="M229.00 97.00v-21.00" class="stroke"/>
+<use x="278.40" y="94.00" xlink:href="#Hd"/>
+<path d="M281.90 94.00v-21.00" class="stroke"/>
+<use x="336.20" y="106.00" xlink:href="#Hd"/>
+<path d="M339.70 106.00v-21.00" class="stroke"/>
+<use x="397.80" y="91.00" xlink:href="#hd"/>
+<path d="M401.30 91.00v-21.00" class="stroke"/>
+<use x="438.70" y="94.00" xlink:href="#hd"/>
+<path d="M442.20 94.00v-21.00" class="stroke"/>
+<use x="479.50" y="91.00" xlink:href="#hd"/>
+<path d="M483.00 91.00v-21.00" class="stroke"/>
+<use x="520.40" y="88.00" xlink:href="#hd"/>
+<path d="M516.90 88.00v21.00" class="stroke"/>
+<use x="570.10" y="91.00" xlink:href="#Hd"/>
+<path d="M566.60 91.00v21.00" class="stroke"/>
+<use x="622.10" y="94.00" xlink:href="#hd"/>
+<path d="M625.60 94.00v-21.00" class="stroke"/>
+<use x="663.00" y="97.00" xlink:href="#hd"/>
+<path d="M666.50 97.00v-21.00" class="stroke"/>
+</g>
+<g stroke-width="0.70" style="font:13.00px Arial">
+<path class="stroke" stroke-width="1"
+	d="M202.60 183.30v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M394.00 183.30v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M560.00 183.30v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M691.60 183.30v-24.00"/>
+<path d="m10.00 183.30
+	h681.60
+	M10.00 177.30
+	h681.60
+	M10.00 171.30
+	h681.60
+	M10.00 165.30
+	h681.60
+	M10.00 159.30
+	h681.60
+	" class="stroke"/>
+</g>
+<g stroke-width="0.70" style="font:12.00px Helvetica">
+<text x="48.20" y="143.90">Em</text>
+<text x="165.70" y="143.90">A</text>
+<text x="215.50" y="143.90">D</text>
+<text x="357.10" y="143.90">G</text>
+<text x="412.20" y="143.90">D</text>
+<text x="476.40" y="143.90">A7</text>
+<text x="578.70" y="143.90">D</text>
+</g>
+<g stroke-width="0.70" style="font:13.00px Arial">
+<text x="48.50" y="205.40">O</text>
+<text x="107.10" y="205.40">come</text>
+<text x="159.80" y="205.40">ye,</text>
+<text x="212.30" y="205.40">O</text>
+<text x="251.30" y="205.40">come</text>
+<text x="304.00" y="205.40">ye,</text>
+<text x="353.60" y="205.40">to</text>
+<text x="402.40" y="205.40">Bet</text>
+<path class="stroke" stroke-width="1.2"
+	stroke-dasharray="5,26"
+	d="M448.55 201.50h5"/>
+<text x="472.70" y="205.40">th</text>
+<path class="stroke" stroke-width="1.2"
+	stroke-dasharray="5,23"
+	d="M506.40 201.50h5"/>
+<text x="526.80" y="205.40">le</text>
+<path class="stroke" stroke-width="1.2"
+	stroke-dasharray="5,23"
+	d="M553.80 201.50h5"/>
+<text x="568.40" y="205.40">hem.</text>
+<use x="22.00" y="177.30" xlink:href="#tclef"/>
+<use x="37.00" y="159.30" xlink:href="#sh0"/>
+<use x="55.50" y="177.30" xlink:href="#Hd"/>
+<path d="M59.00 177.30v-21.00" class="stroke"/>
+<use x="122.30" y="180.30" xlink:href="#hd"/>
+<path d="M125.80 180.30v-21.00" class="stroke"/>
+<use x="169.50" y="183.30" xlink:href="#hd"/>
+<path d="M173.00 183.30v-21.00" class="stroke"/>
+<use x="219.30" y="180.30" xlink:href="#hd"/>
+<path d="M222.80 180.30v-21.00" class="stroke"/>
+<use x="266.50" y="177.30" xlink:href="#hd"/>
+<path d="M270.00 177.30v-21.00" class="stroke"/>
+<use x="313.70" y="174.30" xlink:href="#hd"/>
+<path d="M317.20 174.30v-21.00" class="stroke"/>
+<use x="360.90" y="171.30" xlink:href="#hd"/>
+<path d="M364.40 171.30v-21.00" class="stroke"/>
+<use x="416.00" y="180.30" xlink:href="#Hd"/>
+<path d="M419.50 180.30v-21.00" class="stroke"/>
+<use x="482.90" y="183.30" xlink:href="#hd"/>
+<circle class="fill" cx="490.60" cy="180.30" r="1.2"/>
+<path d="M486.40 183.30v-21.00" class="stroke"/>
+<use x="536.60" y="186.30" xlink:href="#hd"/>
+<path d="M540.10 186.30v-21.00" class="stroke"/>
+<path class="fill"
+	d="M540.10 165.30c0.6 5.6 9.6 9 5.6 18.4
+	1.6 -6 -1.3 -11.6 -5.6 -12.8
+"/>
+<use x="582.50" y="186.30" xlink:href="#Hd"/>
+<circle class="fill" cx="591.20" cy="186.30" r="1.2"/>
+<path d="M586.00 186.30v-21.00" class="stroke"/>
+<defs>
+<path id="r4" class="fill" d="m-1 -8.5
+	l3.6 5.1 -2.1 5.2 2.2 4.3
+	c-2.6 -2.3 -5.1 0 -2.4 2.6
+	-4.8 -3 -1.5 -6.9 1.4 -4.1
+	l-3.1 -4.5 1.9 -5.1 -1.5 -3.5"/>
+</defs>
+<use x="658.50" y="171.30" xlink:href="#r4"/>
+</g>
+<g stroke-width="0.70" style="font:13.00px Arial">
+<path class="stroke" stroke-width="1"
+	d="M199.30 257.60v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M325.80 257.60v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M509.20 257.60v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M691.60 257.60v-24.00"/>
+<path d="m10.00 257.60
+	h681.60
+	M10.00 251.60
+	h681.60
+	M10.00 245.60
+	h681.60
+	M10.00 239.60
+	h681.60
+	M10.00 233.60
+	h681.60
+	" class="stroke"/>
+</g>
+<g stroke-width="0.70" style="font:12.00px Helvetica">
+<text x="59.20" y="221.20">G</text>
+<text x="212.60" y="221.20">Am</text>
+<text x="278.60" y="221.20">G</text>
+<text x="343.50" y="221.20">D</text>
+<text x="426.90" y="221.20">Am</text>
+<text x="532.70" y="221.20">D</text>
+</g>
+<g stroke-width="0.70" style="font:13.00px Arial">
+<text x="46.50" y="282.70">Come</text>
+<text x="113.80" y="282.70">and</text>
+<text x="157.50" y="282.70">be</text>
+<path class="stroke" stroke-width="1.2"
+	stroke-dasharray="5,23"
+	d="M190.35 278.80h5"/>
+<text x="207.50" y="282.70">hold</text>
+<text x="268.00" y="282.70">Him,</text>
+<text x="334.00" y="282.70">born</text>
+<text x="381.20" y="282.70">the</text>
+<text x="420.50" y="282.70">King</text>
+<text x="471.00" y="282.70">of</text>
+<text x="517.40" y="282.70">angels;</text>
+<path class="stroke" stroke-width="0.8"
+	d="M560.90 282.70h62.30"/>
+<text x="654.00" y="282.70">O</text>
+<use x="22.00" y="251.60" xlink:href="#tclef"/>
+<use x="37.00" y="233.60" xlink:href="#sh0"/>
+<use x="63.00" y="239.60" xlink:href="#Hd"/>
+<path d="M59.50 239.60v21.00" class="stroke"/>
+<use x="124.90" y="242.60" xlink:href="#hd"/>
+<path d="M121.40 242.60v21.00" class="stroke"/>
+<use x="168.70" y="245.60" xlink:href="#hd"/>
+<path d="M165.20 245.60v21.00" class="stroke"/>
+<use x="220.50" y="242.60" xlink:href="#Hd"/>
+<path d="M217.00 242.60v21.00" class="stroke"/>
+<use x="282.40" y="245.60" xlink:href="#Hd"/>
+<path d="M278.90 245.60v21.00" class="stroke"/>
+<use x="347.40" y="248.60" xlink:href="#hd"/>
+<path d="M350.90 248.60v-21.00" class="stroke"/>
+<use x="391.10" y="245.60" xlink:href="#hd"/>
+<path d="M394.60 245.60v-21.00" class="stroke"/>
+<use x="434.80" y="251.60" xlink:href="#hd"/>
+<path d="M438.30 251.60v-21.00" class="stroke"/>
+<use x="478.60" y="248.60" xlink:href="#hd"/>
+<path d="M482.10 248.60v-21.00" class="stroke"/>
+<use x="536.50" y="254.60" xlink:href="#hd"/>
+<circle class="fill" cx="544.20" cy="254.60" r="1.2"/>
+<path d="M540.00 254.60v-21.00" class="stroke"/>
+<use x="586.30" y="257.60" xlink:href="#hd"/>
+<path d="M589.80 257.60v-21.00" class="stroke"/>
+<path class="fill"
+	d="M589.80 236.60c0.6 5.6 9.6 9 5.6 18.4
+	1.6 -6 -1.3 -11.6 -5.6 -12.8
+"/>
+<use x="617.20" y="260.60" xlink:href="#hd"/>
+<path d="M620.70 260.60v-21.00" class="stroke"/>
+<use x="661.00" y="251.60" xlink:href="#hd"/>
+<path d="M664.50 251.60v-21.00" class="stroke"/>
+</g>
+<g stroke-width="0.70" style="font:13.00px Arial">
+<path class="stroke" stroke-width="1"
+	d="M218.20 337.90v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M371.10 337.90v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M550.90 337.90v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M691.60 337.90v-24.00"/>
+<path d="m10.00 337.90
+	h681.60
+	M10.00 331.90
+	h681.60
+	M10.00 325.90
+	h681.60
+	M10.00 319.90
+	h681.60
+	M10.00 313.90
+	h681.60
+	" class="stroke"/>
+</g>
+<g stroke-width="0.70" style="font:12.00px Helvetica">
+<text x="57.90" y="298.50">G</text>
+<text x="100.20" y="298.50">D</text>
+<text x="142.50" y="298.50">G</text>
+<text x="184.80" y="298.50">D</text>
+<text x="235.50" y="298.50">G</text>
+<text x="432.90" y="298.50">D</text>
+<text x="475.20" y="298.50">G</text>
+<text x="514.80" y="298.50">D7</text>
+<text x="562.00" y="298.50">G</text>
+<text x="615.90" y="298.50">D</text>
+<text x="658.20" y="298.50">G</text>
+</g>
+<g stroke-width="0.70" style="font:13.00px Arial">
+<text x="46.50" y="363.00">come</text>
+<text x="95.50" y="363.00">let</text>
+<text x="138.40" y="363.00">us</text>
+<text x="180.40" y="363.00">a</text>
+<path class="stroke" stroke-width="1.2"
+	stroke-dasharray="5,23"
+	d="M207.65 359.10h5"/>
+<text x="226.30" y="363.00">dore</text>
+<text x="284.60" y="363.00">Him;</text>
+<text x="331.60" y="363.00">Oh</text>
+<text x="379.20" y="363.00">come</text>
+<text x="428.10" y="363.00">let</text>
+<text x="471.10" y="363.00">us</text>
+<text x="515.90" y="363.00">a</text>
+<path class="stroke" stroke-width="0.8"
+	d="M525.20 363.00h46.60"/>
+<text x="606.70" y="363.00">dore</text>
+<text x="649.00" y="363.00">Him</text>
+<use x="22.00" y="331.90" xlink:href="#tclef"/>
+<use x="37.00" y="313.90" xlink:href="#sh0"/>
+<use x="61.70" y="331.90" xlink:href="#hd"/>
+<path d="M65.20 331.90v-21.00" class="stroke"/>
+<use x="104.00" y="334.90" xlink:href="#hd"/>
+<path d="M107.50 334.90v-21.00" class="stroke"/>
+<use x="146.30" y="331.90" xlink:href="#hd"/>
+<path d="M149.80 331.90v-21.00" class="stroke"/>
+<use x="188.60" y="328.90" xlink:href="#hd"/>
+<path d="M192.10 328.90v-21.00" class="stroke"/>
+<use x="239.40" y="331.90" xlink:href="#Hd"/>
+<path d="M242.90 331.90v-21.00" class="stroke"/>
+<use x="299.20" y="340.90" xlink:href="#hd"/>
+<path d="M302.70 340.90v-21.00" class="stroke"/>
+<use x="341.50" y="325.90" xlink:href="#hd"/>
+<path d="M345.00 325.90v-21.00" class="stroke"/>
+<use x="394.40" y="325.90" xlink:href="#hd"/>
+<path d="M397.90 325.90v-21.00" class="stroke"/>
+<use x="436.70" y="328.90" xlink:href="#hd"/>
+<path d="M440.20 328.90v-21.00" class="stroke"/>
+<use x="479.00" y="325.90" xlink:href="#hd"/>
+<path d="M482.50 325.90v-21.00" class="stroke"/>
+<use x="521.30" y="322.90" xlink:href="#hd"/>
+<path d="M517.80 322.90v21.00" class="stroke"/>
+<use x="565.90" y="325.90" xlink:href="#Hd"/>
+<path d="M562.40 325.90v21.00" class="stroke"/>
+<use x="619.70" y="328.90" xlink:href="#hd"/>
+<path d="M623.20 328.90v-21.00" class="stroke"/>
+<use x="662.00" y="325.90" xlink:href="#hd"/>
+<path d="M665.50 325.90v-21.00" class="stroke"/>
+</g>
+<g stroke-width="0.70" style="font:13.00px Arial">
+<path class="stroke" stroke-width="1"
+	d="M241.00 427.20v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M425.10 427.20v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M601.30 427.20v-24.00"/>
+<path class="stroke" stroke-width="3"
+	d="M690.10 427.20v-24.00"/>
+<path class="stroke" stroke-width="1"
+	d="M685.60 427.20v-24.00"/>
+<path d="m10.00 427.20
+	h681.60
+	M10.00 421.20
+	h681.60
+	M10.00 415.20
+	h681.60
+	M10.00 409.20
+	h681.60
+	M10.00 403.20
+	h681.60
+	" class="stroke"/>
+</g>
+<g stroke-width="0.70" style="font:12.00px Helvetica">
+<text x="49.90" y="390.80">D7</text>
+<text x="103.80" y="390.80">G</text>
+<text x="150.00" y="390.80">D</text>
+<text x="198.60" y="378.80">A7</text>
+<text x="201.30" y="390.80">G</text>
+<text x="261.60" y="390.80">D</text>
+<text x="334.10" y="390.80">G</text>
+<text x="385.70" y="390.80">C</text>
+<text x="448.40" y="390.80">G</text>
+<text x="513.70" y="390.80">D</text>
+<text x="621.70" y="390.80">G</text>
+</g>
+<g stroke-width="0.70" style="font:13.00px Arial">
+<text x="46.50" y="452.30">Oh</text>
+<text x="92.40" y="452.30">come</text>
+<text x="145.20" y="452.30">let</text>
+<text x="197.20" y="452.30">us</text>
+<text x="249.80" y="452.30">adore</text>
+<text x="323.50" y="452.30">Him,</text>
+<path class="stroke" stroke-width="0.8"
+	d="M355.50 452.30h39.80"/>
+<text x="433.90" y="452.30">Christ,</text>
+<path class="stroke" stroke-width="0.8"
+	d="M475.50 452.30h48.10"/>
+<text x="566.10" y="452.30">the</text>
+<text x="610.10" y="452.30">Lord.</text>
+<use x="22.00" y="421.20" xlink:href="#tclef"/>
+<use x="37.00" y="403.20" xlink:href="#sh0"/>
+<use x="56.30" y="412.20" xlink:href="#hd"/>
+<path d="M52.80 412.20v21.00" class="stroke"/>
+<use x="107.60" y="415.20" xlink:href="#hd"/>
+<path d="M104.10 415.20v21.00" class="stroke"/>
+<use x="153.80" y="418.20" xlink:href="#hd"/>
+<path d="M157.30 418.20v-21.00" class="stroke"/>
+<use x="205.10" y="421.20" xlink:href="#hd"/>
+<path d="M208.60 421.20v-21.00" class="stroke"/>
+<use x="265.40" y="424.20" xlink:href="#Hd"/>
+<path d="M268.90 424.20v-21.00" class="stroke"/>
+<use x="337.90" y="421.20" xlink:href="#hd"/>
+<path d="M341.40 421.20v-21.00" class="stroke"/>
+<use x="389.20" y="412.20" xlink:href="#hd"/>
+<path d="M385.70 412.20v21.00" class="stroke"/>
+<use x="452.20" y="415.20" xlink:href="#Hd"/>
+<path d="M448.70 415.20v21.00" class="stroke"/>
+<use x="517.50" y="418.20" xlink:href="#hd"/>
+<circle class="fill" cx="525.20" cy="418.20" r="1.2"/>
+<path d="M521.00 418.20v-21.00" class="stroke"/>
+<use x="575.90" y="421.20" xlink:href="#hd"/>
+<path d="M579.40 421.20v-21.00" class="stroke"/>
+<path class="fill"
+	d="M579.40 400.20c0.6 5.6 9.6 9 5.6 18.4
+	1.6 -6 -1.3 -11.6 -5.6 -12.8
+"/>
+<use x="625.50" y="421.20" xlink:href="#Hd"/>
+<circle class="fill" cx="634.20" cy="418.20" r="1.2"/>
+<path d="M629.00 421.20v-21.00" class="stroke"/>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="474.10">God of God, Light of Light</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="491.70">Lo, He abhors not the Virgin&apos;s womb</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="509.30">Very God</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="526.90">Begotten, not created</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="544.50">O come, let us adore Him</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="562.10">O come, let us adore Him</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="579.70">O come, let us adore Him</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="597.30">Christ the Lord!</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="632.50">Sing, choirs of angels, sing in exultation</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="650.10">Sing, all ye citizens of heaven above!</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="667.70">Glory to God</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="685.30">All glory in the highest</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="702.90">O come, let us adore Him</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="720.50">O come, let us adore Him</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="738.10">O come, let us adore Him</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="755.70">Christ the Lord!</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="790.90">Yea, Lord, we greet Thee, born this happy morning</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="808.50">Jesus, to Thee be glory given</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="826.10">Word of the Father</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="843.70">Now in flesh appearing</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="861.30">O come, let us adore Him</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="878.90">O come, let us adore Him</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="896.50">O come, let us adore Him</text>
+</g>
+<g stroke-width="0.70" style="font:16.00px Arial">
+<text x="60.00" y="914.10">Christ the Lord!</text>
+</g>
+</svg>
